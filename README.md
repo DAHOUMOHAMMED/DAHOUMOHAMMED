@@ -6,7 +6,7 @@
 💡 Embedded Systems & Electronics Engineer | IoT | Low-Level Programming  
 📍 Lyon, France  
 📧 dahou.mohammed1999@gmail.com  
-🔗 LinkedIn : (ajoute ton lien ici)
+🔗 LinkedIn : https://www.linkedin.com/in/mohammed-dahou/
 
 ---
 
