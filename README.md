@@ -9,7 +9,7 @@
 🔗 LinkedIn : https://www.linkedin.com/in/mohammed-dahou/
 
 ---
-
+</div>
 ## 👨‍💻 About Me
 
 I'm an **Electronics & Embedded Systems Engineer** specialized in **IoT systems, embedded C programming, and low-level development**.
