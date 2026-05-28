@@ -1,10 +1,10 @@
-<!-- HEADER -->
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](#)
+<div align="center">
 
-# Hi there 👋, I'm Mohammed Dahou
+# 👋 Mohammed Dahou
 
-💡 Embedded Systems & Electronics Engineer | IoT | Low-Level Programming  
-📍 Lyon, France  
+### Embedded Systems Engineer | IoT Developer | Firmware Engineer
+
+📍 Lyon, France 🇫🇷  
 📧 Email : dahou.mohammed1999@gmail.com  
 🔗 LinkedIn : https://www.linkedin.com/in/mohammed-dahou/
 
